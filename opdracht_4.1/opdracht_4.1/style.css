@@ -1,0 +1,26 @@
+html{
+    font-size: 62.5%;
+ }
+ h1{
+    color:blue;
+    size:2.4rem;
+    font-style:italic;
+    font-weight:bold;
+ }
+ h2{
+    color: #0000ff;
+    size: 2rem;
+    font-weight: bold;
+ }
+ h3{
+    color:teal;
+    font-size:1.6rem;
+    font-weight:bold;
+ }
+ p{
+     color: #4d4d4d;
+ }
+ a{
+     color:#8a2be2;
+     text-decoration: none;
+ }
